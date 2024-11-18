@@ -1,5 +1,22 @@
 # Computational Philosophy: A Structured Learning Path
 
+## 0. Introductory Mindspace
+
+### Meaning
+- Author's meaning vs symbol's meaning
+- Explore the changed meaning of tokens in/out of context: word, phrase, sentence, paragraph, chapter, book
+- this sentence means I should eat my vegetables
+
+### Understanding 
+- Can we translate or interpret without understanding
+- Chinese room
+- The author of the translation books had understanding, can it not be passed on
+
+### Wisdom
+- Black & White Mary
+- Is there more to experience than knowledge? 
+- Would we even know our first color at first sight by knowledge alone?
+
 ## 1. Foundational Concepts
 
 ### Philosophy of Mind and Computation
