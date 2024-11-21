@@ -17,6 +17,11 @@
 - Is there more to experience than knowledge? 
 - Would we even know our first color at first sight by knowledge alone?
 
+### Reality
+- "This is not a pipe" Magritte & Sailhammer
+- Platonism vs Materialism
+
+
 ## 1. Foundational Concepts
 
 ### Philosophy of Mind and Computation
