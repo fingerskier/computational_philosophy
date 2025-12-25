@@ -1,4 +1,11 @@
-# Computational Philosophy: A Structured Learning Path
+# Computational Philosophy
+
+```
+gloria Dei celare verbum
+et gloria regum investigare sermonem
+```
+
+A structured learning path to understand how to codify and compute philosophical ideas.
 
 ## 0. Introductory Mindspace
 
