@@ -1,6 +1,6 @@
 # The Frame Problem
 
-The frame problem is a fascinating challenge in artificial intelligence and philosophy of mind that was first formally identified by John McCarthy and Patrick Hayes in 1969. Let me break this down carefully.
+The frame problem is a fascinating challenge in artificial intelligence and philosophy of mind that was first formally identified by John McCarthy and Patrick Hayes in 1969.
 
 The frame problem is essentially about how an intelligent system (whether artificial or natural) can efficiently determine what stays the same and what changes when an action occurs, without having to explicitly reason about everything that doesn't change.
 
